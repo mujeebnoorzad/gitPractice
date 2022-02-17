@@ -1,0 +1,3 @@
+module gitandgithub {
+	exports git;
+}
